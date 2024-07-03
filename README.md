@@ -1,11 +1,11 @@
-"""
+```
 @coding : utf-8
 @File   : readme.py
 @Author : zixian Zhu(hiddensharp)
 @Date   : 2024/05/06
 @Desc   : 彩色图片压缩说明文档
 @Last_editor 
-"""
+```
 
 # 文件目录说明
 
