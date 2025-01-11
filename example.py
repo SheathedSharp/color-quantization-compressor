@@ -1,10 +1,6 @@
 '''
-Author: hiddenSharp429 z404878860@163.com
+Author: SheathedSharp z404878860@163.com
 Date: 2024-06-06 12:57:12
-LastEditors: hiddenSharp429 z404878860@163.com
-LastEditTime: 2024-07-03 17:13:25
-FilePath: /colorful_Image_compressor/example.py
-Description: 
 '''
 from colorful_Image_compressor import ColorfulImageCompressor
 

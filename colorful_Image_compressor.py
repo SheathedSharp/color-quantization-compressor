@@ -1,12 +1,7 @@
-"""
-@coding : utf-8
-@File   : colorful_image_compressor.py
-@Author : zixian Zhu(hiddensharp)
-@Date   : 2024/05/06
-@Desc   : 彩色图片压缩
-@Last_editor 
-"""
-
+'''
+Author: SheathedSharp z404878860@163.com
+Date: 2024-06-06 12:57:12
+'''
 import numpy as np
 from PIL import Image
 from sklearn.cluster import KMeans
