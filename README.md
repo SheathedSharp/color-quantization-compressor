@@ -7,6 +7,7 @@
   [![Static Badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%40SheathedSharp-red)](https://github.com/SheathedSharp/color-quantization-compressor/blob/main/README_CN.md)    |  [![Static Badge](https://img.shields.io/badge/English-%40SheathedSharp-blue)](https://github.com/SheathedSharp/color-quantization-compressor/blob/main/README.md)) 
   
 </div>
+
 # color-quantization-compressor
 This is a color image compression tool based on KMeans clustering and dynamic programming.
 
